@@ -5,6 +5,7 @@ React (Vite) version of the multi-page Xcell1 website. **Same design as www.xcel
 ## Run
 
 ```
+cd d:\xcell1-website-react\app
 npm install
 npm run dev       # local dev server
 npm run build     # production build into dist/ (also prerenders all pages)
